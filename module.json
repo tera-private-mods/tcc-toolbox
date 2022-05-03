@@ -1,5 +1,5 @@
 {
-    "servers": ["https://git.dev.hsdn.org/tera-v92/tcc-toolbox/raw/master/"],
+    "servers": ["http://git.dev.hsdn.org/tera-v92/tcc-toolbox/raw/master/"],
     "supportUrl": "https://github.com/Foglio1024/Tera-Custom-Cooldowns/issues",
     "name": "tcc-toolbox",
     "author": "Foglio",
