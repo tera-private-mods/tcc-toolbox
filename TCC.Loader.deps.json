@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TCC.Loader/1.0.0": {
+        "dependencies": {
+          "TCC.Utils": "1.0.0"
+        },
+        "runtime": {
+          "TCC.Loader.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.30": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.30.0",
+            "fileVersion": "1.11.30.0"
+          }
+        }
+      },
+      "Nostrum/1.2.14": {
+        "runtime": {
+          "lib/netcoreapp3.1/Nostrum.dll": {
+            "assemblyVersion": "1.2.14.0",
+            "fileVersion": "1.2.14.0"
+          }
+        }
+      },
+      "TCC.Utils/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.30",
+          "Nostrum": "1.2.14"
+        },
+        "runtime": {
+          "TCC.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCC.Loader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IuOSVuuHCJKrnAjNe5rZnZCyR/NpXL6ExEL7UiM8h4fnhbt8tLqIKol9q5Lv0uoxWO8fl9Uq+1kpGfMDUdr5zA==",
+      "path": "htmlagilitypack/1.11.30",
+      "hashPath": "htmlagilitypack.1.11.30.nupkg.sha512"
+    },
+    "Nostrum/1.2.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m6N+mCLEYFfY+mhS9JeZnIU4E2Wteqmva8IaMD5aofhdXn6ERkDolUYtpUkjSLjeff0HwJdyse+nR33j+n0LRg==",
+      "path": "nostrum/1.2.14",
+      "hashPath": "nostrum.1.2.14.nupkg.sha512"
+    },
+    "TCC.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

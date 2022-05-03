@@ -1,0 +1,19 @@
+{
+    "servers": ["https://git.dev.hsdn.org/tera-v92/tcc-toolbox/raw/master/"],
+    "supportUrl": "https://github.com/Foglio1024/Tera-Custom-Cooldowns/issues",
+    "name": "tcc-toolbox",
+    "author": "Foglio",
+    "description": "UI replacement with some extra features.",
+    "disableAutoUpdate": false,
+    "keywords": ["client"],
+    "options": {
+        "cliName": "TCC",
+        "guiName": "TCC (TERA Custom Cooldowns)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings-migrator.js",
+        "settingsVersion": 1
+    },
+    "dependencies": {
+        "external-interface": "http://git.dev.hsdn.org/tera-v92/external-interface/raw/master/module.json"
+    }
+}
