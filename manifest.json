@@ -58,41 +58,143 @@
         "index.js": "90570021d9237330fac60e25a5857a7628aed234e59ab50234ba669c5c0351a9",
         "module.json": "4804503530709aed970110f5f5befbc9ed3521a390a5d55e3070b86768286387",
         "network/tcc-stub.js": "3d447b2ba93036b260eb0d26fb4965fbbf327f031cdc4288cf365b0b9b861e2f",
-        "resources/data/acc_benefits/acc_benefits-EU-EN.tsv": "84b75b25aeb2c7db731060ac1ecded13c04f19443e381e2e8b740c7f09c97d19",
-        "resources/data/acc_benefits/acc_benefits-RU.tsv": "9bec6449081ecf32f7fb84e62d91455310254da03cf9d1fef14e03140bb011be",
-        "resources/data/achi_grade/achi_grade-EU-EN.tsv": "5ae5c864db928b110d8f1709e22a81f6022d5922ebb7aa283c3a0279d7c3115c",
-        "resources/data/achi_grade/achi_grade-RU.tsv": "24be97a0c5a2b93ee8d4ca9a0e1cbb60b9b32c0443d56dda6c2e16fb89e9f96d",
-        "resources/data/achievements/achievements-EU-EN.tsv": "049e0d2446604728993f8fa7c3b9df05b10314dbc031ac9b148693885d7972c9",
-        "resources/data/achievements/achievements-RU.tsv": "6e38fb5e3cbf981b06b504387512e03da381c579899a072c1ed48f44f64f7514",
-        "resources/data/default-dungeon-defs.tsv": "4962aa372b67922587376262e17296fdcc49bfbd58ba93784219cf9ad8e38e8c",
-        "resources/data/dungeon-defs.tsv": "4962aa372b67922587376262e17296fdcc49bfbd58ba93784219cf9ad8e38e8c",
-        "resources/data/dungeons/dungeons-EU-EN.tsv": "f86ab02284f231a8e90fa3143f7d84e29100baeddd90a9d4e6180253701035d8",
-        "resources/data/dungeons/dungeons-RU.tsv": "b73b0e0584452e6139a2309010abf938fee8ec6c2aca79b93f03ea358811a0f8",
-        "resources/data/equip_exp/equip_exp-EU-EN.xml": "f2509761868562f3a100a86414021e9b6800a60156887db44f01988bd0fd4b66",
-        "resources/data/equip_exp/equip_exp-RU.xml": "f2509761868562f3a100a86414021e9b6800a60156887db44f01988bd0fd4b66",
-        "resources/data/guild_quests/guild_quests-EU-EN.tsv": "efd70de0097db761f5d85b01760ba9e7633669934a8c71f445f0d586509e731f",
-        "resources/data/guild_quests/guild_quests-RU.tsv": "8ddc44e8e26b8ca0cbb2a6973aaaa1f63609fc446f86060a54b4a495a012e222",
-        "resources/data/hotdot/hotdot-EU-EN.tsv": "45d1ae8181c442cfc38d45e404430cf14b29c376c565a564523bc0100c4d5671",
-        "resources/data/hotdot/hotdot-RU.tsv": "f52aa80dc1a92b0a8f17c82be3b8602d24f26f25e0380ec7dc4b345540aa3aea",
-        "resources/data/items/items-EU-EN.tsv": "9188da8bd492023b985e24a5064adec281827e4a75e0b80570d1123d9274bd7d",
-        "resources/data/items/items-RU.tsv": "19b9c8ebe97989122755b5fbd112011b6587f3a4070f6952778fc6f250977430",
-        "resources/data/monsters/monsters-EU-EN.xml": "f8100bcb6f0cfc7e2be297b51bca4834df6a207a21ab9d1f2931ef4085f12bc7",
-        "resources/data/monsters/monsters-RU.xml": "4635a1acefd5d68a2cfd6f9a4ca03c6f46dc874f4dc9beb62f6d7859a9ce5777",
-        "resources/data/monsters/monsters-override.xml": "f0db5132373ab2a4ae3e1850078771142f08fcda991b6aa128ada5f866267906",
-        "resources/data/quests/quests-EU-EN.tsv": "ec53b3854463fb34728c746604f0ade940445546399a508a2df4c1fca5ca9b77",
-        "resources/data/quests/quests-RU.tsv": "128e15cd674da09376705e3aabca7673f51326a37d6dd3d265e94ad22424b5d6",
-        "resources/data/regions/regions-EU-EN.tsv": "71147a059eaceebb278cb16160094120841f6c8906fc8482351853bbeebe627c",
-        "resources/data/regions/regions-RU.tsv": "8a553828ab94938b875258c95c71c96b2d0e65428a37967e4e8ea0422751044b",
-        "resources/data/section_images.tsv": "303863ecd63a566547b609670aab15501eaf513254f38f5444f1878a2ff4b36a",
+        "resources/data/acc_benefits/acc_benefits-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "84b75b25aeb2c7db731060ac1ecded13c04f19443e381e2e8b740c7f09c97d19"
+        },
+        "resources/data/acc_benefits/acc_benefits-RU.tsv": {
+            "overwrite": false,
+            "hash": "9bec6449081ecf32f7fb84e62d91455310254da03cf9d1fef14e03140bb011be"
+        },
+        "resources/data/achi_grade/achi_grade-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "5ae5c864db928b110d8f1709e22a81f6022d5922ebb7aa283c3a0279d7c3115c"
+        },
+        "resources/data/achi_grade/achi_grade-RU.tsv": {
+            "overwrite": false,
+            "hash": "24be97a0c5a2b93ee8d4ca9a0e1cbb60b9b32c0443d56dda6c2e16fb89e9f96d"
+        },
+        "resources/data/achievements/achievements-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "049e0d2446604728993f8fa7c3b9df05b10314dbc031ac9b148693885d7972c9"
+        },
+        "resources/data/achievements/achievements-RU.tsv": {
+            "overwrite": false,
+            "hash": "6e38fb5e3cbf981b06b504387512e03da381c579899a072c1ed48f44f64f7514"
+        },
+        "resources/data/default-dungeon-defs.tsv": {
+            "overwrite": false,
+            "hash": "4962aa372b67922587376262e17296fdcc49bfbd58ba93784219cf9ad8e38e8c"
+        },
+        "resources/data/dungeon-defs.tsv": {
+            "overwrite": false,
+            "hash": "4962aa372b67922587376262e17296fdcc49bfbd58ba93784219cf9ad8e38e8c"
+        },
+        "resources/data/dungeons/dungeons-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "f86ab02284f231a8e90fa3143f7d84e29100baeddd90a9d4e6180253701035d8"
+        },
+        "resources/data/dungeons/dungeons-RU.tsv": {
+            "overwrite": false,
+            "hash": "b73b0e0584452e6139a2309010abf938fee8ec6c2aca79b93f03ea358811a0f8"
+        },
+        "resources/data/equip_exp/equip_exp-EU-EN.xml": {
+            "overwrite": false,
+            "hash": "f2509761868562f3a100a86414021e9b6800a60156887db44f01988bd0fd4b66"
+        },
+        "resources/data/equip_exp/equip_exp-RU.xml": {
+            "overwrite": false,
+            "hash": "f2509761868562f3a100a86414021e9b6800a60156887db44f01988bd0fd4b66"
+        },
+        "resources/data/guild_quests/guild_quests-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "efd70de0097db761f5d85b01760ba9e7633669934a8c71f445f0d586509e731f"
+        },
+        "resources/data/guild_quests/guild_quests-RU.tsv": {
+            "overwrite": false,
+            "hash": "8ddc44e8e26b8ca0cbb2a6973aaaa1f63609fc446f86060a54b4a495a012e222"
+        },
+        "resources/data/hotdot/hotdot-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "45d1ae8181c442cfc38d45e404430cf14b29c376c565a564523bc0100c4d5671"
+        },
+        "resources/data/hotdot/hotdot-RU.tsv": {
+            "overwrite": false,
+            "hash": "f52aa80dc1a92b0a8f17c82be3b8602d24f26f25e0380ec7dc4b345540aa3aea"
+        },
+        "resources/data/items/items-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "9188da8bd492023b985e24a5064adec281827e4a75e0b80570d1123d9274bd7d"
+        },
+        "resources/data/items/items-RU.tsv": {
+            "overwrite": false,
+            "hash": "19b9c8ebe97989122755b5fbd112011b6587f3a4070f6952778fc6f250977430"
+        },
+        "resources/data/monsters/monsters-EU-EN.xml": {
+            "overwrite": false,
+            "hash": "f8100bcb6f0cfc7e2be297b51bca4834df6a207a21ab9d1f2931ef4085f12bc7"
+        },
+        "resources/data/monsters/monsters-RU.xml": {
+            "overwrite": false,
+            "hash": "4635a1acefd5d68a2cfd6f9a4ca03c6f46dc874f4dc9beb62f6d7859a9ce5777"
+        },
+        "resources/data/monsters/monsters-override.xml": {
+            "overwrite": false,
+            "hash": "f0db5132373ab2a4ae3e1850078771142f08fcda991b6aa128ada5f866267906"
+        },
+        "resources/data/quests/quests-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "ec53b3854463fb34728c746604f0ade940445546399a508a2df4c1fca5ca9b77"
+        },
+        "resources/data/quests/quests-RU.tsv": {
+            "overwrite": false,
+            "hash": "128e15cd674da09376705e3aabca7673f51326a37d6dd3d265e94ad22424b5d6"
+        },
+        "resources/data/regions/regions-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "71147a059eaceebb278cb16160094120841f6c8906fc8482351853bbeebe627c"
+        },
+        "resources/data/regions/regions-RU.tsv": {
+            "overwrite": false,
+            "hash": "8a553828ab94938b875258c95c71c96b2d0e65428a37967e4e8ea0422751044b"
+        },
+        "resources/data/section_images.tsv": {
+            "overwrite": false,
+            "hash": "303863ecd63a566547b609670aab15501eaf513254f38f5444f1878a2ff4b36a"
+        },
         "resources/data/servers.txt": "5c7d7c68f5b5a2f4fbbd8ac51401ae18821325bce788ee51c8ff3ecae81172c1",
-        "resources/data/skills/skills-EU-EN.tsv": "2db539226b92c4eb1e4b7e0f56fcb207eec4f535a03b88cad9f03ff9fc1be622",
-        "resources/data/skills/skills-RU.tsv": "f4582111288100316bf1081cb060569efc79e0e67d9a00b23aea3de4cfe84be4",
-        "resources/data/social/social-EU-EN.tsv": "0a281e225665cab9dea96f4be36b06a3c8b9e7f74695dacd8d99ed8baa333b24",
-        "resources/data/social/social-RU.tsv": "7cbf300d766a861ef74bf93d2e2ee664494c0a854acafecf330785434b11adcd",
-        "resources/data/sys_msg/sys_msg-EU-EN.tsv": "ab6cbd5444cd77ca6d7b3891f3fd1ef5e9d8e359c3b9e0e6127acf4f12faa8bd",
-        "resources/data/sys_msg/sys_msg-RU.tsv": "896799c546efd4064c6442540b3a848ae92ff9688bf8cd053226af42647715d1",
-        "resources/data/world_map/world_map-EU-EN.xml": "1f7edbf77425946b97aa9a9e0cc337d22e842ec88cf94ccfa7bf49adbcdc37cf",
-        "resources/data/world_map/world_map-RU.xml": "1f7edbf77425946b97aa9a9e0cc337d22e842ec88cf94ccfa7bf49adbcdc37cf",
+        "resources/data/skills/skills-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "2db539226b92c4eb1e4b7e0f56fcb207eec4f535a03b88cad9f03ff9fc1be622"
+        },
+        "resources/data/skills/skills-RU.tsv": {
+            "overwrite": false,
+            "hash": "f4582111288100316bf1081cb060569efc79e0e67d9a00b23aea3de4cfe84be4"
+        },
+        "resources/data/social/social-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "0a281e225665cab9dea96f4be36b06a3c8b9e7f74695dacd8d99ed8baa333b24"
+        },
+        "resources/data/social/social-RU.tsv": {
+            "overwrite": false,
+            "hash": "7cbf300d766a861ef74bf93d2e2ee664494c0a854acafecf330785434b11adcd"
+        },
+        "resources/data/sys_msg/sys_msg-EU-EN.tsv": {
+            "overwrite": false,
+            "hash": "ab6cbd5444cd77ca6d7b3891f3fd1ef5e9d8e359c3b9e0e6127acf4f12faa8bd"
+        },
+        "resources/data/sys_msg/sys_msg-RU.tsv": {
+            "overwrite": false,
+            "hash": "896799c546efd4064c6442540b3a848ae92ff9688bf8cd053226af42647715d1"
+        },
+        "resources/data/world_map/world_map-EU-EN.xml": {
+            "overwrite": false,
+            "hash": "1f7edbf77425946b97aa9a9e0cc337d22e842ec88cf94ccfa7bf49adbcdc37cf"
+        },
+        "resources/data/world_map/world_map-RU.xml": {
+            "overwrite": false,
+            "hash": "1f7edbf77425946b97aa9a9e0cc337d22e842ec88cf94ccfa7bf49adbcdc37cf"
+        },
         "settings-migrator.js": "f24f5349cd0b5ca8ad261998b074ca87f385f8f54231bd7f77fc12efd8519828"
     }
 }
