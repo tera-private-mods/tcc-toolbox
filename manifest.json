@@ -56,7 +56,7 @@
         "global/tcc-interface.js": "8a24f5e3ce35eb5d7806ce9e74e2774627679eb4959630a3931addb93125cab1",
         "icons.zip": "5204f527d58cf0ce1a552cc95c7c2ec7b66e9b67b918c2e871f6876b1b06ece5",
         "index.js": "90570021d9237330fac60e25a5857a7628aed234e59ab50234ba669c5c0351a9",
-        "module.json": "4804503530709aed970110f5f5befbc9ed3521a390a5d55e3070b86768286387",
+        "module.json": "4ada803bacbc6b4f18e9408c94f02e605e4b6fd57b1d4ce97d74715d935716a9",
         "network/tcc-stub.js": "3d447b2ba93036b260eb0d26fb4965fbbf327f031cdc4288cf365b0b9b861e2f",
         "resources/data/acc_benefits/acc_benefits-EU-EN.tsv": {
             "overwrite": false,
